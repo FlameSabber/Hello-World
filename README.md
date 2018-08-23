@@ -1,5 +1,6 @@
 # Hello-World
+Present Scenario:
 I am new to GitHub. 
 Even new to programming. 
-I need help in transforming into a developer. 
+I need help in transforming me into a developer. 
 So please do help me.
